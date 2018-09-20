@@ -1,10 +1,10 @@
-## Note-Taking-App
+# Note-Taking-App
 A note taking app built with python using Tkinter GUI and mysql as database.
 
-# Why note taking ?
+## Why note taking ?
 This handy note taking application allows users to manage their tasks and store it to database.
 
-# What this application will do ?
+## What this application will do ?
 - This Application takes your notes and stores it in database..
 - You can add,view and delete notes at any time..
 - To run this ,You Need Python 3.7,PyMySQL Module and tkinter(inbuilt) Module.
@@ -33,5 +33,3 @@ The backend logic is using simple `CRUD operations` to maintain the applications
 - [x] Create the files for backend logics with basic CRUD operations.
 - [x] Import the created files to connect them with front end.
 - [x] Create file for GUI using Tkinter components.
-
-#### The application will look like this :
